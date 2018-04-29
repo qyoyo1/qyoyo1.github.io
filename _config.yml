@@ -1,6 +1,6 @@
 # Site settings
 title: Yuying QIU
-SEOTitle: Yuying Webpage
+SEOTitle: Yuying QIU | Webpage
 header-img: img/post-bg-desk.jpg
 email: qyoyo2@gmail.com
 description: "Ph.D Student in Operations Management and Decision Sciences"
@@ -11,15 +11,17 @@ github_repo: "https://github.com/qyoyo1/qyoyo1.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Enrich your life today, yesterday is history, tomorrow is mystery"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Enrich your life today, 
+yesterday is history, 
+tomorrow is mystery."
+sidebar-avatar: /img/photo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     
-zhihu_username:     qyoyo1
+zhihu_username:     yuying-qiu
 github_username:    qyoyo1
 instagram_username:    qyoyo1
 linkedin_username:     qiu-yuying-b548a094
@@ -94,7 +96,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "OMDS",
+        title: "OMDS Ph.D",
         href: "http://www.essec.edu/en/program/phd-en/phd-program/student-profiles/science/"
     }
 ]
