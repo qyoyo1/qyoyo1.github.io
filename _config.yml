@@ -14,7 +14,7 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Enrich your life today, 
 yesterday is history, 
 tomorrow is mystery."
-sidebar-avatar: /img/photo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/photo.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
